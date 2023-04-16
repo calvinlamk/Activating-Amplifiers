@@ -1,7 +1,8 @@
 # Activating-Amplifiers
 
 This github contains sample codes for the following manuscript: https://www.biorxiv.org/content/10.1101/2023.03.15.532861v2
-Information on how to get started and use the code can be found here: https://github.com/calvinlamk/Book-Chapter-Demo
+This code runs on CompuCell3D v3.7.8 which can be found at the organization's website, along with instructions. 
+Instructions can also be found at the page for the original model: https://github.com/lmorsut/Lam_Morsut_GJSM
 
 The repository here contains example codes for the above manuscript. 
 
