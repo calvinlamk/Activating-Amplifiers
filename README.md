@@ -12,4 +12,4 @@ For example, to obtain the E-cadherin based structures change the adhesion to th
 
 I have also included the code for the synthetic immunotherapy study with the heterogenous tumor. The file is SbTempAmpHML_PS and corresponds to Supplementary figure 7. All the other experiments can be derived from the code by changing the tested parameter.
 
-The full codes will be published upon publication of the maniscript. Please don't hesitate to contact me for questions or help.
+The full codes will be published upon publication of the manuscript. Please don't hesitate to contact me for questions or help.
