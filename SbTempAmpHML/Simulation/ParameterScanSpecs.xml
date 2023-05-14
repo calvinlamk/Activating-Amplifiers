@@ -1,9 +1,0 @@
-<ParameterScan version="3.7.0">
-   <OutputDirectory>SbTempAmpHML</OutputDirectory>
-   <ParameterList Resource="Simulation/ELUGM.xml">
-      <Parameter CurrentIteration="0" Name="RandomSeed" Type="XML_CDATA" ValueType="int">
-         [['CompuCell3D','Revision','20171208','Version','3.7.7'],['Potts'],['RandomSeed']]
-         <Values>79764,7402,27064,36305,41559,2550,845,1153,15060,8819</Values>
-      </Parameter>
-   </ParameterList>
-</ParameterScan>
