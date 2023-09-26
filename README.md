@@ -7,7 +7,7 @@ Instructions can also be found at the page for the original model: https://githu
 The repository here contains example codes for the above manuscript. 
 
 I have included the file: 
-NP_TempTemp which is the code for the Ncad Pcad structure with temporarily amplified gray cells (Ncad) and permanently amplified orange cells (Pcad).
+NP_TempTemp which is the code for the Ncad Pcad structure with temporarily amplified gray cells (Ncad) and temporarily amplified orange cells (Pcad).
 Parameters can be changed to model the other tested structures in this study by following the changes made in the Supplementary Table in the biorxiv link.
 For example, to obtain the E-cadherin based structures change the adhesion to the E-cadherin parameters and the circuit equations as desired.
 I have also included a "Multipole Demo" file that has unecessary comments and unused parameters removed as a template.
