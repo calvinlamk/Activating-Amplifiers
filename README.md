@@ -1,6 +1,8 @@
 # Activating-Amplifiers
 
-This github contains sample codes for the following manuscript: https://www.sciencedirect.com/science/article/pii/S2405805X23000820
+This github contains sample codes for the following manuscript: "Design and mathematical analysis of activating transcriptional amplifiers that enable modular temporal control in synthetic juxtacrine circuits"
+https://doi.org/10.1016/j.synbio.2023.09.008
+
 This code runs on CompuCell3D v3.7.8 which can be found at the organization's website, along with instructions. 
 Instructions can also be found at the page for the original model: https://github.com/lmorsut/Lam_Morsut_GJSM
 
