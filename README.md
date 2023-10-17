@@ -10,12 +10,13 @@ The repository here contains example codes for the above manuscript.
 
 I have included the file: 
 NP_TempTemp which is the code for the Ncad Pcad structure with temporarily amplified gray cells (Ncad) and temporarily amplified orange cells (Pcad).
-Parameters can be changed to model the other tested structures in this study by following the changes made in the Supplementary Table in the biorxiv link.
+Parameters can be changed to model the other tested structures in this study by following the changes made in the Supplementary Table provided with the manuscript.
 For example, to obtain the E-cadherin based structures change the adhesion to the E-cadherin parameters and the circuit equations as desired.
 I have also included a "Multipole Demo" file that has unecessary comments and unused parameters removed as a template.
 
-I have also included the code for the synthetic immunotherapy study with the heterogenous tumor with pink, red, and orange cells.
+I have also included the code for the synthetic immunotherapy experiments with the heterogenous tumor with pink, red, and orange cells.
 The description of these cells can be found in the manuscript.
 The file is SbTempAmpHML. All the other experiments can be derived from the code by changing the tested parameter.
+A template flie is provided as well: "SBCART Demo"
 
-Please don't hesitate to contact me for questions or help.
+Please feel free to contact me for questions or help: calvin.lam.k@gmail.com
